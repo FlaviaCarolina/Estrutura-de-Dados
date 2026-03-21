@@ -1,0 +1,2201 @@
+RELATORIO 2 - CARROS DO PAIS BRAZIL
+===================================
+
+Total de carros: 244
+
+ID: 431
+Marca: BMW
+Modelo: BMW Série 3
+Preço: R$ 58275.00
+País: Brazil
+Região: Maranhão
+Nome: Cindy Lombard
+Data: 31/07/2019
+----------------------------------------
+ID: 250
+Marca: BMW
+Modelo: Z4
+Preço: R$ 41009.00
+País: Brazil
+Região: Minas Gerais
+Nome: Doris Borell
+Data: 28/08/2018
+----------------------------------------
+ID: 840
+Marca: BMW
+Modelo: I8
+Preço: R$ 72981.00
+País: Brazil
+Região: Maranhão
+Nome: Wilmette Wrathmell
+Data: 09/09/2017
+----------------------------------------
+ID: 443
+Marca: BMW
+Modelo: BMW Série 1
+Preço: R$ 63629.00
+País: Brazil
+Região: Maranhão
+Nome: Farrand Sheekey
+Data: 11/12/2014
+----------------------------------------
+ID: 761
+Marca: BMW
+Modelo: X6
+Preço: R$ 65421.00
+País: Brazil
+Região: Minas Gerais
+Nome: Candis Worsnip
+Data: 19/08/2013
+----------------------------------------
+ID: 791
+Marca: BMW
+Modelo: BMW Série 5
+Preço: R$ 62432.00
+País: Brazil
+Região: Goiás
+Nome: Pancho Spriggen
+Data: 31/12/2013
+----------------------------------------
+ID: 498
+Marca: BMW
+Modelo: BMW Série 1
+Preço: R$ 75365.00
+País: Brazil
+Região: Minas Gerais
+Nome: Sam Hazeldene
+Data: 05/04/2014
+----------------------------------------
+ID: 557
+Marca: BMW
+Modelo: BMW Série 3
+Preço: R$ 67451.00
+País: Brazil
+Região: Maranhão
+Nome: Murvyn Sitch
+Data: 21/04/2014
+----------------------------------------
+ID: 326
+Marca: BMW
+Modelo: X6
+Preço: R$ 66317.00
+País: Brazil
+Região: Minas Gerais
+Nome: Colly Twelftree
+Data: 26/09/2014
+----------------------------------------
+ID: 303
+Marca: BMW
+Modelo: X3
+Preço: R$ 41563.00
+País: Brazil
+Região: Maranhão
+Nome: Tiena Karadzas
+Data: 30/10/2014
+----------------------------------------
+ID: 870
+Marca: BMW
+Modelo: BMW Série 1
+Preço: R$ 59270.00
+País: Brazil
+Região: Minas Gerais
+Nome: Esra Owbrick
+Data: 08/11/2014
+----------------------------------------
+ID: 78
+Marca: BMW
+Modelo: BMW Série 1
+Preço: R$ 56668.00
+País: Brazil
+Região: Minas Gerais
+Nome: Tades Capoun
+Data: 24/02/2015
+----------------------------------------
+ID: 756
+Marca: BMW
+Modelo: X6
+Preço: R$ 61382.00
+País: Brazil
+Região: Goiás
+Nome: Caleb Sanday
+Data: 04/07/2015
+----------------------------------------
+ID: 96
+Marca: BMW
+Modelo: Z4
+Preço: R$ 60360.00
+País: Brazil
+Região: São Paulo
+Nome: Joanie Sukbhans
+Data: 11/08/2015
+----------------------------------------
+ID: 819
+Marca: BMW
+Modelo: BMW Série 5
+Preço: R$ 43019.00
+País: Brazil
+Região: Maranhão
+Nome: Jobina Ife
+Data: 28/08/2015
+----------------------------------------
+ID: 94
+Marca: BMW
+Modelo: X6
+Preço: R$ 52458.00
+País: Brazil
+Região: Goiás
+Nome: Esme Waison
+Data: 17/10/2015
+----------------------------------------
+ID: 393
+Marca: BMW
+Modelo: BMW Série 3
+Preço: R$ 50645.00
+País: Brazil
+Região: Goiás
+Nome: Dorothee Davidsohn
+Data: 03/11/2015
+----------------------------------------
+ID: 894
+Marca: BMW
+Modelo: BMW Série 5
+Preço: R$ 72085.00
+País: Brazil
+Região: Minas Gerais
+Nome: Zelma Gaymer
+Data: 18/02/2016
+----------------------------------------
+ID: 698
+Marca: BMW
+Modelo: BMW Série 5
+Preço: R$ 70359.00
+País: Brazil
+Região: Maranhão
+Nome: Frederico Daout
+Data: 20/12/2016
+----------------------------------------
+ID: 261
+Marca: BMW
+Modelo: Z4
+Preço: R$ 73964.00
+País: Brazil
+Região: São Paulo
+Nome: Dania Marunchak
+Data: 27/04/2017
+----------------------------------------
+ID: 146
+Marca: BMW
+Modelo: X3
+Preço: R$ 40882.00
+País: Brazil
+Região: Minas Gerais
+Nome: Thatch Lipscombe
+Data: 16/05/2017
+----------------------------------------
+ID: 347
+Marca: BMW
+Modelo: Z4
+Preço: R$ 76511.00
+País: Brazil
+Região: Minas Gerais
+Nome: Madel Leap
+Data: 04/06/2017
+----------------------------------------
+ID: 169
+Marca: BMW
+Modelo: X5
+Preço: R$ 56792.00
+País: Brazil
+Região: Minas Gerais
+Nome: Eartha Rostern
+Data: 07/06/2017
+----------------------------------------
+ID: 945
+Marca: BMW
+Modelo: Z4
+Preço: R$ 77333.00
+País: Brazil
+Região: Minas Gerais
+Nome: Malissa Bubb
+Data: 15/08/2017
+----------------------------------------
+ID: 185
+Marca: BMW
+Modelo: X3
+Preço: R$ 74462.00
+País: Brazil
+Região: Minas Gerais
+Nome: Deeanne Gourlay
+Data: 09/04/2018
+----------------------------------------
+ID: 642
+Marca: BMW
+Modelo: X6
+Preço: R$ 64435.00
+País: Brazil
+Região: Minas Gerais
+Nome: Jule Leeke
+Data: 26/04/2018
+----------------------------------------
+ID: 95
+Marca: BMW
+Modelo: Z4
+Preço: R$ 48891.00
+País: Brazil
+Região: Minas Gerais
+Nome: Orelee Peagrim
+Data: 04/08/2018
+----------------------------------------
+ID: 163
+Marca: BMW
+Modelo: X3
+Preço: R$ 74599.00
+País: Brazil
+Região: Maranhão
+Nome: Karena Whardley
+Data: 07/02/2019
+----------------------------------------
+ID: 675
+Marca: BMW
+Modelo: X5
+Preço: R$ 73617.00
+País: Brazil
+Região: Minas Gerais
+Nome: Jordan Sheekey
+Data: 07/07/2019
+----------------------------------------
+ID: 898
+Marca: BMW
+Modelo: BMW Série 5
+Preço: R$ 72893.00
+País: Brazil
+Região: Minas Gerais
+Nome: Barn Bagnal
+Data: 17/07/2019
+----------------------------------------
+ID: 678
+Marca: BMW
+Modelo: X5
+Preço: R$ 40600.00
+País: Brazil
+Região: Minas Gerais
+Nome: Darryl Loughran
+Data: 27/07/2019
+----------------------------------------
+ID: 563
+Marca: BMW
+Modelo: BMW Série 1
+Preço: R$ 62850.00
+País: Brazil
+Região: Minas Gerais
+Nome: Amabel Sallinger
+Data: 08/10/2019
+----------------------------------------
+ID: 160
+Marca: BMW
+Modelo: X6
+Preço: R$ 45928.00
+País: Brazil
+Região: Goiás
+Nome: Myrilla Brotherhood
+Data: 20/02/2020
+----------------------------------------
+ID: 205
+Marca: BMW
+Modelo: Z4
+Preço: R$ 62513.00
+País: Brazil
+Região: Maranhão
+Nome: Stevy Newark
+Data: 10/04/2020
+----------------------------------------
+ID: 962
+Marca: BMW
+Modelo: X5
+Preço: R$ 73617.00
+País: Brazil
+Região: Minas Gerais
+Nome: Jordan Sheekey
+Data: 07/01/2018
+----------------------------------------
+ID: 963
+Marca: BMW
+Modelo: X5
+Preço: R$ 40600.00
+País: Brazil
+Região: Minas Gerais
+Nome: Darryl Loughran
+Data: 27/02/2018
+----------------------------------------
+ID: 997
+Marca: BMW
+Modelo: X6
+Preço: R$ 45928.00
+País: Brazil
+Região: Goiás
+Nome: Myrilla Brotherhood
+Data: 20/02/2020
+----------------------------------------
+ID: 1010
+Marca: BMW
+Modelo: Z4
+Preço: R$ 62513.00
+País: Brazil
+Região: Maranhão
+Nome: Stevy Newark
+Data: 10/04/2020
+----------------------------------------
+ID: 938
+Marca: Chevrolet
+Modelo: Onix
+Preço: R$ 74337.00
+País: Brazil
+Região: Rio Grande do Norte
+Nome: Olga Stigell
+Data: 01/01/2013
+----------------------------------------
+ID: 944
+Marca: Chevrolet
+Modelo: Onix
+Preço: R$ 70473.00
+País: Brazil
+Região: Rio Grande do Sul
+Nome: Wilhelmina Wiersma
+Data: 30/05/2013
+----------------------------------------
+ID: 477
+Marca: Chevrolet
+Modelo: Onix
+Preço: R$ 76553.00
+País: Brazil
+Região: São Paulo
+Nome: Andrea McDugal
+Data: 06/08/2013
+----------------------------------------
+ID: 845
+Marca: Chevrolet
+Modelo: Onix
+Preço: R$ 73797.00
+País: Brazil
+Região: Bahia
+Nome: Layton Abrahim
+Data: 27/08/2013
+----------------------------------------
+ID: 239
+Marca: Chevrolet
+Modelo: Onix
+Preço: R$ 55324.00
+País: Brazil
+Região: Bahia
+Nome: Twyla Deaton
+Data: 01/10/2013
+----------------------------------------
+ID: 67
+Marca: Chevrolet
+Modelo: Onix
+Preço: R$ 58392.00
+País: Brazil
+Região: Espirito Santo
+Nome: Devi Currell
+Data: 02/10/2013
+----------------------------------------
+ID: 305
+Marca: Chevrolet
+Modelo: Onix
+Preço: R$ 64551.00
+País: Brazil
+Região: Santa Catarina
+Nome: Carolan Guerrero
+Data: 11/11/2013
+----------------------------------------
+ID: 530
+Marca: Chevrolet
+Modelo: Prisma
+Preço: R$ 58835.00
+País: Brazil
+Região: Bahia
+Nome: Mikel Lenard
+Data: 02/05/2014
+----------------------------------------
+ID: 224
+Marca: Chevrolet
+Modelo: Camaro
+Preço: R$ 51034.00
+País: Brazil
+Região: São Paulo
+Nome: Nevsa Vegas
+Data: 25/05/2014
+----------------------------------------
+ID: 641
+Marca: Chevrolet
+Modelo: Prisma
+Preço: R$ 74288.00
+País: Brazil
+Região: São Paulo
+Nome: Pernell Shuker
+Data: 29/09/2014
+----------------------------------------
+ID: 639
+Marca: Chevrolet
+Modelo: Prisma
+Preço: R$ 46170.00
+País: Brazil
+Região: São Paulo
+Nome: Nelli Croke
+Data: 22/02/2015
+----------------------------------------
+ID: 81
+Marca: Chevrolet
+Modelo: Onix
+Preço: R$ 79192.00
+País: Brazil
+Região: São Paulo
+Nome: Phillipp Cabrales
+Data: 10/03/2015
+----------------------------------------
+ID: 440
+Marca: Chevrolet
+Modelo: Prisma
+Preço: R$ 44174.00
+País: Brazil
+Região: Espirito Santo
+Nome: Lise Buckner
+Data: 14/04/2015
+----------------------------------------
+ID: 516
+Marca: Chevrolet
+Modelo: Prisma
+Preço: R$ 65818.00
+País: Brazil
+Região: Santa Catarina
+Nome: Ryann Guilliatt
+Data: 05/08/2015
+----------------------------------------
+ID: 70
+Marca: Chevrolet
+Modelo: Prisma
+Preço: R$ 77797.00
+País: Brazil
+Região: Rio Grande do Norte
+Nome: Worthington Baldry
+Data: 04/04/2016
+----------------------------------------
+ID: 910
+Marca: Chevrolet
+Modelo: Camaro
+Preço: R$ 74911.34
+País: Brazil
+Região: São Paulo
+Nome: Anette Poutress
+Data: 18/05/2016
+----------------------------------------
+ID: 434
+Marca: Chevrolet
+Modelo: Spin
+Preço: R$ 70691.00
+País: Brazil
+Região: Rio Grande do Sul
+Nome: Shelagh Chiswell
+Data: 09/04/2017
+----------------------------------------
+ID: 849
+Marca: Chevrolet
+Modelo: Spin
+Preço: R$ 70072.00
+País: Brazil
+Região: São Paulo
+Nome: Fayina Dilkes
+Data: 11/11/2017
+----------------------------------------
+ID: 723
+Marca: Chevrolet
+Modelo: Spin
+Preço: R$ 72491.00
+País: Brazil
+Região: Santa Catarina
+Nome: Pyotr Pentycross
+Data: 16/09/2018
+----------------------------------------
+ID: 449
+Marca: Chevrolet
+Modelo: Prisma
+Preço: R$ 47764.00
+País: Brazil
+Região: Bahia
+Nome: Cord Nertney
+Data: 23/01/2019
+----------------------------------------
+ID: 178
+Marca: Chevrolet
+Modelo: Onix
+Preço: R$ 61899.00
+País: Brazil
+Região: Santa Catarina
+Nome: Felice Iliffe
+Data: 16/07/2019
+----------------------------------------
+ID: 256
+Marca: Ferrari
+Modelo: F8
+Preço: R$ 75551.00
+País: Brazil
+Região: Minas Gerais
+Nome: Johnna Greendale
+Data: 27/05/2015
+----------------------------------------
+ID: 480
+Marca: Ferrari
+Modelo: Dino 246
+Preço: R$ 58381.94
+País: Brazil
+Região: São Paulo
+Nome: Zane Simukov
+Data: 16/05/2016
+----------------------------------------
+ID: 809
+Marca: Ferrari
+Modelo: Portofino
+Preço: R$ 71984.00
+País: Brazil
+Região: Minas Gerais
+Nome: Rozamond Blade
+Data: 09/04/2018
+----------------------------------------
+ID: 30
+Marca: Ferrari
+Modelo: Dino 246
+Preço: R$ 59463.00
+País: Brazil
+Região: São Paulo
+Nome: Cynthea Greatbanks
+Data: 06/01/2019
+----------------------------------------
+ID: 768
+Marca: Ferrari
+Modelo: Enzo
+Preço: R$ 72376.00
+País: Brazil
+Região: Minas Gerais
+Nome: Ruddy Gosland
+Data: 08/01/2019
+----------------------------------------
+ID: 974
+Marca: Ferrari
+Modelo: Portofino
+Preço: R$ 71984.00
+País: Brazil
+Região: Minas Gerais
+Nome: Rozamond Blade
+Data: 26/07/2018
+----------------------------------------
+ID: 977
+Marca: Ferrari
+Modelo: Dino 246
+Preço: R$ 59463.00
+País: Brazil
+Região: São Paulo
+Nome: Cynthea Greatbanks
+Data: 09/11/2018
+----------------------------------------
+ID: 45
+Marca: Ford
+Modelo: Ka
+Preço: R$ 71827.00
+País: Brazil
+Região: Amazonas
+Nome: Anders Ellen
+Data: 12/08/2018
+----------------------------------------
+ID: 407
+Marca: Ford
+Modelo: Fusion
+Preço: R$ 69932.00
+País: Brazil
+Região: Rio Grande do Sul
+Nome: Chloe Giacomini
+Data: 07/09/2018
+----------------------------------------
+ID: 518
+Marca: Ford
+Modelo: Fiesta
+Preço: R$ 76697.00
+País: Brazil
+Região: Espirito Santo
+Nome: Burch Sappson
+Data: 12/09/2017
+----------------------------------------
+ID: 937
+Marca: Ford
+Modelo: Fiesta
+Preço: R$ 72476.00
+País: Brazil
+Região: São Paulo
+Nome: Carmel Gannicleff
+Data: 25/10/2016
+----------------------------------------
+ID: 635
+Marca: Ford
+Modelo: Ranger
+Preço: R$ 65408.00
+País: Brazil
+Região: Espirito Santo
+Nome: Anton Deely
+Data: 23/04/2013
+----------------------------------------
+ID: 504
+Marca: Ford
+Modelo: Mustang
+Preço: R$ 70000.00
+País: Brazil
+Região: Goiás
+Nome: Costa Dilliston
+Data: 14/05/2013
+----------------------------------------
+ID: 606
+Marca: Ford
+Modelo: Mustang
+Preço: R$ 52516.00
+País: Brazil
+Região: Rio Grande do Norte
+Nome: Uta Torpie
+Data: 27/06/2013
+----------------------------------------
+ID: 607
+Marca: Ford
+Modelo: Ranger
+Preço: R$ 61708.00
+País: Brazil
+Região: Rio Grande do Sul
+Nome: Evvie Capnor
+Data: 28/06/2013
+----------------------------------------
+ID: 749
+Marca: Ford
+Modelo: Mustang
+Preço: R$ 44640.00
+País: Brazil
+Região: Rio Grande do Sul
+Nome: Adelina Sebright
+Data: 29/06/2013
+----------------------------------------
+ID: 348
+Marca: Ford
+Modelo: Ranger
+Preço: R$ 52475.00
+País: Brazil
+Região: Espirito Santo
+Nome: Kliment Palfreman
+Data: 22/07/2013
+----------------------------------------
+ID: 702
+Marca: Ford
+Modelo: Fiesta
+Preço: R$ 76267.00
+País: Brazil
+Região: Espirito Santo
+Nome: Eydie Dy
+Data: 28/10/2013
+----------------------------------------
+ID: 437
+Marca: Ford
+Modelo: Ecosport
+Preço: R$ 60144.00
+País: Brazil
+Região: Bahia
+Nome: Brendon Climance
+Data: 08/11/2013
+----------------------------------------
+ID: 300
+Marca: Ford
+Modelo: Ecosport
+Preço: R$ 60804.00
+País: Brazil
+Região: São Paulo
+Nome: Anneliese Load
+Data: 12/11/2013
+----------------------------------------
+ID: 762
+Marca: Ford
+Modelo: Teritory
+Preço: R$ 67292.00
+País: Brazil
+Região: Rio Grande do Norte
+Nome: Jaimie Bushaway
+Data: 05/04/2014
+----------------------------------------
+ID: 337
+Marca: Ford
+Modelo: Edge
+Preço: R$ 72001.00
+País: Brazil
+Região: Rio Grande do Sul
+Nome: Joe Shepherdson
+Data: 30/04/2014
+----------------------------------------
+ID: 379
+Marca: Ford
+Modelo: Ka
+Preço: R$ 66475.00
+País: Brazil
+Região: Rio Grande do Sul
+Nome: Dewey Fansy
+Data: 01/05/2014
+----------------------------------------
+ID: 296
+Marca: Ford
+Modelo: Fiesta
+Preço: R$ 48450.00
+País: Brazil
+Região: São Paulo
+Nome: Meade Kubasek
+Data: 14/05/2014
+----------------------------------------
+ID: 484
+Marca: Ford
+Modelo: Edge
+Preço: R$ 71875.00
+País: Brazil
+Região: Rio Grande do Sul
+Nome: Rolf Dunlap
+Data: 21/05/2014
+----------------------------------------
+ID: 520
+Marca: Ford
+Modelo: Teritory
+Preço: R$ 65354.00
+País: Brazil
+Região: Rio Grande do Norte
+Nome: Xerxes Vooght
+Data: 06/09/2014
+----------------------------------------
+ID: 597
+Marca: Ford
+Modelo: Ecosport
+Preço: R$ 61414.00
+País: Brazil
+Região: São Paulo
+Nome: Dara MacAfee
+Data: 04/10/2014
+----------------------------------------
+ID: 685
+Marca: Ford
+Modelo: Fiesta
+Preço: R$ 60782.00
+País: Brazil
+Região: Rio Grande do Norte
+Nome: Shina Ekless
+Data: 10/01/2015
+----------------------------------------
+ID: 333
+Marca: Ford
+Modelo: Ecosport
+Preço: R$ 69734.00
+País: Brazil
+Região: Santa Catarina
+Nome: Veronique Padkin
+Data: 10/02/2015
+----------------------------------------
+ID: 946
+Marca: Ford
+Modelo: Fiesta
+Preço: R$ 65384.00
+País: Brazil
+Região: Rio Grande do Sul
+Nome: Robbert Kilfedder
+Data: 09/07/2015
+----------------------------------------
+ID: 567
+Marca: Ford
+Modelo: Edge
+Preço: R$ 45905.00
+País: Brazil
+Região: Amazonas
+Nome: Sheelah Yakuntzov
+Data: 16/07/2015
+----------------------------------------
+ID: 744
+Marca: Ford
+Modelo: Fusion
+Preço: R$ 64051.00
+País: Brazil
+Região: Rio de Janeiro
+Nome: Henka McNellis
+Data: 21/07/2015
+----------------------------------------
+ID: 432
+Marca: Ford
+Modelo: Mustang
+Preço: R$ 67596.00
+País: Brazil
+Região: Bahia
+Nome: Jennee McKendo
+Data: 17/08/2015
+----------------------------------------
+ID: 522
+Marca: Ford
+Modelo: Teritory
+Preço: R$ 75257.00
+País: Brazil
+Região: São Paulo
+Nome: Katlin Isselee
+Data: 21/08/2015
+----------------------------------------
+ID: 255
+Marca: Ford
+Modelo: Ka
+Preço: R$ 70309.00
+País: Brazil
+Região: Rio Grande do Sul
+Nome: Randene Thomas
+Data: 03/12/2015
+----------------------------------------
+ID: 327
+Marca: Ford
+Modelo: Fiesta
+Preço: R$ 55630.00
+País: Brazil
+Região: São Paulo
+Nome: Carrie Sleigh
+Data: 16/03/2016
+----------------------------------------
+ID: 596
+Marca: Ford
+Modelo: Edge
+Preço: R$ 76475.00
+País: Brazil
+Região: São Paulo
+Nome: Corie Gives
+Data: 16/05/2016
+----------------------------------------
+ID: 429
+Marca: Ford
+Modelo: Ranger
+Preço: R$ 75929.00
+País: Brazil
+Região: Goiás
+Nome: Kristo Oddboy
+Data: 31/07/2016
+----------------------------------------
+ID: 364
+Marca: Ford
+Modelo: Edge
+Preço: R$ 57367.00
+País: Brazil
+Região: Amazonas
+Nome: Jolie Frodsham
+Data: 31/08/2016
+----------------------------------------
+ID: 858
+Marca: Ford
+Modelo: Ecosport
+Preço: R$ 47826.00
+País: Brazil
+Região: Goiás
+Nome: Dore Philippard
+Data: 31/08/2016
+----------------------------------------
+ID: 346
+Marca: Ford
+Modelo: Edge
+Preço: R$ 74705.00
+País: Brazil
+Região: São Paulo
+Nome: Alice Finlaison
+Data: 11/10/2016
+----------------------------------------
+ID: 471
+Marca: Ford
+Modelo: Fusion
+Preço: R$ 77936.00
+País: Brazil
+Região: Bahia
+Nome: Neda Grotty
+Data: 18/12/2016
+----------------------------------------
+ID: 942
+Marca: Ford
+Modelo: Fusion
+Preço: R$ 40074.00
+País: Brazil
+Região: Rio Grande do Norte
+Nome: Alwin Thumann
+Data: 06/01/2017
+----------------------------------------
+ID: 62
+Marca: Ford
+Modelo: Edge
+Preço: R$ 60581.00
+País: Brazil
+Região: São Paulo
+Nome: Gloria Heinritz
+Data: 25/01/2017
+----------------------------------------
+ID: 490
+Marca: Ford
+Modelo: Ecosport
+Preço: R$ 55445.00
+País: Brazil
+Região: Espirito Santo
+Nome: Loralie Cocker
+Data: 29/01/2017
+----------------------------------------
+ID: 352
+Marca: Ford
+Modelo: Fusion
+Preço: R$ 55563.00
+País: Brazil
+Região: Santa Catarina
+Nome: Elihu Keerl
+Data: 27/02/2017
+----------------------------------------
+ID: 115
+Marca: Ford
+Modelo: Fusion
+Preço: R$ 52341.00
+País: Brazil
+Região: Bahia
+Nome: Cassy Somersett
+Data: 06/03/2017
+----------------------------------------
+ID: 705
+Marca: Ford
+Modelo: Ka
+Preço: R$ 45617.00
+País: Brazil
+Região: Bahia
+Nome: Haroun Birkwood
+Data: 07/03/2017
+----------------------------------------
+ID: 130
+Marca: Ford
+Modelo: Ka
+Preço: R$ 61181.00
+País: Brazil
+Região: São Paulo
+Nome: Therine Iacomi
+Data: 13/05/2017
+----------------------------------------
+ID: 621
+Marca: Ford
+Modelo: Ecosport
+Preço: R$ 40908.00
+País: Brazil
+Região: Goiás
+Nome: Mickey Lewinton
+Data: 16/07/2017
+----------------------------------------
+ID: 263
+Marca: Ford
+Modelo: Mustang
+Preço: R$ 79980.00
+País: Brazil
+Região: Rio de Janeiro
+Nome: Abba Kingcott
+Data: 08/08/2017
+----------------------------------------
+ID: 473
+Marca: Ford
+Modelo: Edge
+Preço: R$ 78862.00
+País: Brazil
+Região: Santa Catarina
+Nome: Brice Mangeot
+Data: 03/09/2017
+----------------------------------------
+ID: 21
+Marca: Ford
+Modelo: Fusion
+Preço: R$ 53299.00
+País: Brazil
+Região: Santa Catarina
+Nome: Pascal Gosnell
+Data: 02/11/2017
+----------------------------------------
+ID: 252
+Marca: Ford
+Modelo: Ecosport
+Preço: R$ 47327.00
+País: Brazil
+Região: Rio Grande do Norte
+Nome: Toinette Aldine
+Data: 19/03/2018
+----------------------------------------
+ID: 753
+Marca: Ford
+Modelo: Fusion
+Preço: R$ 42652.00
+País: Brazil
+Região: Santa Catarina
+Nome: Kinny Jozefczak
+Data: 15/04/2018
+----------------------------------------
+ID: 625
+Marca: Ford
+Modelo: Mustang
+Preço: R$ 46463.00
+País: Brazil
+Região: Rio Grande do Sul
+Nome: Ag Rutty
+Data: 12/06/2018
+----------------------------------------
+ID: 408
+Marca: Ford
+Modelo: Fiesta
+Preço: R$ 67835.00
+País: Brazil
+Região: Amazonas
+Nome: Jamie Gandy
+Data: 26/06/2018
+----------------------------------------
+ID: 579
+Marca: Ford
+Modelo: Edge
+Preço: R$ 55713.00
+País: Brazil
+Região: Espirito Santo
+Nome: Gayle Artis
+Data: 12/08/2018
+----------------------------------------
+ID: 182
+Marca: Ford
+Modelo: Ranger
+Preço: R$ 63518.00
+País: Brazil
+Região: Rio Grande do Norte
+Nome: Raddy O'Sherin
+Data: 16/09/2018
+----------------------------------------
+ID: 879
+Marca: Ford
+Modelo: Ecosport
+Preço: R$ 62949.00
+País: Brazil
+Região: Espirito Santo
+Nome: Georgette Terne
+Data: 03/12/2018
+----------------------------------------
+ID: 71
+Marca: Ford
+Modelo: Edge
+Preço: R$ 60493.00
+País: Brazil
+Região: Rio Grande do Sul
+Nome: Zach Meardon
+Data: 18/12/2018
+----------------------------------------
+ID: 634
+Marca: Ford
+Modelo: Fiesta
+Preço: R$ 64469.00
+País: Brazil
+Região: Espirito Santo
+Nome: Dory Groundwator
+Data: 08/02/2019
+----------------------------------------
+ID: 385
+Marca: Ford
+Modelo: Edge
+Preço: R$ 79939.00
+País: Brazil
+Região: Rio Grande do Norte
+Nome: Caroline Mickelwright
+Data: 11/04/2019
+----------------------------------------
+ID: 689
+Marca: Ford
+Modelo: Teritory
+Preço: R$ 54302.00
+País: Brazil
+Região: Rio Grande do Sul
+Nome: Barbabra Johannesson
+Data: 30/05/2019
+----------------------------------------
+ID: 374
+Marca: Ford
+Modelo: Edge
+Preço: R$ 48373.00
+País: Brazil
+Região: São Paulo
+Nome: Ariel Curston
+Data: 25/06/2019
+----------------------------------------
+ID: 666
+Marca: Ford
+Modelo: Ranger
+Preço: R$ 60832.00
+País: Brazil
+Região: Bahia
+Nome: Saundra Yalden
+Data: 11/07/2019
+----------------------------------------
+ID: 342
+Marca: Ford
+Modelo: Fiesta
+Preço: R$ 77441.00
+País: Brazil
+Região: Rio de Janeiro
+Nome: Quintana Tavernor
+Data: 20/07/2019
+----------------------------------------
+ID: 525
+Marca: Ford
+Modelo: Ecosport
+Preço: R$ 59062.00
+País: Brazil
+Região: São Paulo
+Nome: Tymothy Longhi
+Data: 15/08/2019
+----------------------------------------
+ID: 79
+Marca: Ford
+Modelo: Fiesta
+Preço: R$ 66175.00
+País: Brazil
+Região: Rio Grande do Sul
+Nome: Kary Moutray Read
+Data: 30/11/2019
+----------------------------------------
+ID: 361
+Marca: Ford
+Modelo: Fiesta
+Preço: R$ 42999.00
+País: Brazil
+Região: São Paulo
+Nome: Cristie Goodie
+Data: 28/12/2019
+----------------------------------------
+ID: 904
+Marca: Ford
+Modelo: Ranger
+Preço: R$ 43366.00
+País: Brazil
+Região: Rio Grande do Norte
+Nome: Jaye Weiser
+Data: 14/01/2020
+----------------------------------------
+ID: 383
+Marca: Ford
+Modelo: Mustang
+Preço: R$ 49403.00
+País: Brazil
+Região: Amazonas
+Nome: Sloane Brewster
+Data: 02/03/2020
+----------------------------------------
+ID: 507
+Marca: Ford
+Modelo: Mustang
+Preço: R$ 52287.00
+País: Brazil
+Região: Bahia
+Nome: Krista McEvilly
+Data: 16/03/2020
+----------------------------------------
+ID: 853
+Marca: Ford
+Modelo: Fusion
+Preço: R$ 62866.00
+País: Brazil
+Região: Rio Grande do Norte
+Nome: Clayborn Chew
+Data: 08/04/2020
+----------------------------------------
+ID: 986
+Marca: Ford
+Modelo: Ranger
+Preço: R$ 43366.00
+País: Brazil
+Região: Rio Grande do Norte
+Nome: Jaye Weiser
+Data: 14/01/2020
+----------------------------------------
+ID: 1000
+Marca: Ford
+Modelo: Mustang
+Preço: R$ 49403.00
+País: Brazil
+Região: Amazonas
+Nome: Sloane Brewster
+Data: 02/03/2020
+----------------------------------------
+ID: 1002
+Marca: Ford
+Modelo: Mustang
+Preço: R$ 52287.00
+País: Brazil
+Região: Bahia
+Nome: Krista McEvilly
+Data: 16/03/2020
+----------------------------------------
+ID: 1008
+Marca: Ford
+Modelo: Fusion
+Preço: R$ 62866.00
+País: Brazil
+Região: Rio Grande do Norte
+Nome: Clayborn Chew
+Data: 08/04/2020
+----------------------------------------
+ID: 258
+Marca: Honda
+Modelo: NSX
+Preço: R$ 59266.85
+País: Brazil
+Região: São Paulo
+Nome: Emmaline O'Fallon
+Data: 07/06/2020
+----------------------------------------
+ID: 271
+Marca: Honda
+Modelo: Accord
+Preço: R$ 65398.00
+País: Brazil
+Região: Bahia
+Nome: Lennie Skyme
+Data: 18/09/2017
+----------------------------------------
+ID: 131
+Marca: Honda
+Modelo: NSX
+Preço: R$ 48612.00
+País: Brazil
+Região: Bahia
+Nome: Any Slater
+Data: 20/12/2013
+----------------------------------------
+ID: 80
+Marca: Honda
+Modelo: Accord
+Preço: R$ 42818.00
+País: Brazil
+Região: Espirito Santo
+Nome: Oralle Pavel
+Data: 08/02/2013
+----------------------------------------
+ID: 76
+Marca: Honda
+Modelo: Accord
+Preço: R$ 74564.00
+País: Brazil
+Região: Bahia
+Nome: Karisa Stormonth
+Data: 28/02/2013
+----------------------------------------
+ID: 382
+Marca: Honda
+Modelo: NSX
+Preço: R$ 56903.00
+País: Brazil
+Região: São Paulo
+Nome: Terrence Erskine Sandys
+Data: 27/04/2013
+----------------------------------------
+ID: 727
+Marca: Honda
+Modelo: Accord
+Preço: R$ 76302.00
+País: Brazil
+Região: São Paulo
+Nome: Madlin Mooring
+Data: 20/01/2014
+----------------------------------------
+ID: 502
+Marca: Honda
+Modelo: Accord
+Preço: R$ 71921.00
+País: Brazil
+Região: Santa Catarina
+Nome: Vasilis Saer
+Data: 05/02/2014
+----------------------------------------
+ID: 360
+Marca: Honda
+Modelo: Accord
+Preço: R$ 53046.00
+País: Brazil
+Região: Rio Grande do Sul
+Nome: Abagael Stille
+Data: 11/08/2014
+----------------------------------------
+ID: 500
+Marca: Honda
+Modelo: Accord
+Preço: R$ 78581.00
+País: Brazil
+Região: São Paulo
+Nome: Benton Boleyn
+Data: 21/10/2014
+----------------------------------------
+ID: 136
+Marca: Honda
+Modelo: City
+Preço: R$ 49760.00
+País: Brazil
+Região: São Paulo
+Nome: Efrem Trusty
+Data: 31/08/2015
+----------------------------------------
+ID: 392
+Marca: Honda
+Modelo: Accord
+Preço: R$ 76895.00
+País: Brazil
+Região: São Paulo
+Nome: Dion Mc Kellen
+Data: 06/10/2015
+----------------------------------------
+ID: 494
+Marca: Honda
+Modelo: Accord
+Preço: R$ 59475.13
+País: Brazil
+Região: São Paulo
+Nome: Charmane Burland
+Data: 29/11/2015
+----------------------------------------
+ID: 410
+Marca: Honda
+Modelo: NSX
+Preço: R$ 78140.00
+País: Brazil
+Região: São Paulo
+Nome: Hiram Carlisi
+Data: 04/12/2015
+----------------------------------------
+ID: 209
+Marca: Honda
+Modelo: NSX
+Preço: R$ 77401.00
+País: Brazil
+Região: Bahia
+Nome: Aurelia Metzel
+Data: 25/04/2016
+----------------------------------------
+ID: 307
+Marca: Honda
+Modelo: City
+Preço: R$ 46644.32
+País: Brazil
+Região: São Paulo
+Nome: Neal Mifflin
+Data: 26/03/2018
+----------------------------------------
+ID: 193
+Marca: Honda
+Modelo: Accord
+Preço: R$ 77344.00
+País: Brazil
+Região: Santa Catarina
+Nome: Jason Stukings
+Data: 17/11/2018
+----------------------------------------
+ID: 882
+Marca: Honda
+Modelo: NSX
+Preço: R$ 73447.00
+País: Brazil
+Região: Rio Grande do Norte
+Nome: Bernard Jahncke
+Data: 15/03/2019
+----------------------------------------
+ID: 569
+Marca: Honda
+Modelo: NSX
+Preço: R$ 63051.00
+País: Brazil
+Região: Espirito Santo
+Nome: Olivette Acland
+Data: 12/04/2019
+----------------------------------------
+ID: 921
+Marca: Honda
+Modelo: Accord
+Preço: R$ 56666.00
+País: Brazil
+Região: Rio Grande do Norte
+Nome: Cosimo Eyers
+Data: 14/01/2020
+----------------------------------------
+ID: 121
+Marca: Honda
+Modelo: City
+Preço: R$ 67996.00
+País: Brazil
+Região: São Paulo
+Nome: Oren Ruddell
+Data: 04/04/2020
+----------------------------------------
+ID: 987
+Marca: Honda
+Modelo: Accord
+Preço: R$ 56666.00
+País: Brazil
+Região: Rio Grande do Norte
+Nome: Cosimo Eyers
+Data: 14/01/2020
+----------------------------------------
+ID: 1004
+Marca: Honda
+Modelo: City
+Preço: R$ 67996.00
+País: Brazil
+Região: São Paulo
+Nome: Oren Ruddell
+Data: 04/04/2020
+----------------------------------------
+ID: 610
+Marca: Renault
+Modelo: Sandero
+Preço: R$ 48480.00
+País: Brazil
+Região: São Paulo
+Nome: Marcile Trumble
+Data: 15/09/2017
+----------------------------------------
+ID: 583
+Marca: Renault
+Modelo: Logan
+Preço: R$ 60161.00
+País: Brazil
+Região: Santa Catarina
+Nome: Starlene Gretham
+Data: 14/05/2013
+----------------------------------------
+ID: 210
+Marca: Renault
+Modelo: Clio
+Preço: R$ 72381.00
+País: Brazil
+Região: São Paulo
+Nome: Maynord Lambis
+Data: 28/01/2013
+----------------------------------------
+ID: 591
+Marca: Renault
+Modelo: Clio
+Preço: R$ 66837.00
+País: Brazil
+Região: Rio Grande do Norte
+Nome: Pammie Childrens
+Data: 27/01/2014
+----------------------------------------
+ID: 874
+Marca: Renault
+Modelo: Clio
+Preço: R$ 75559.00
+País: Brazil
+Região: Santa Catarina
+Nome: Jourdain Dellar
+Data: 18/12/2015
+----------------------------------------
+ID: 792
+Marca: Renault
+Modelo: Clio
+Preço: R$ 49227.00
+País: Brazil
+Região: Rio Grande do Sul
+Nome: Frederica Krzyzanowski
+Data: 30/04/2016
+----------------------------------------
+ID: 421
+Marca: Renault
+Modelo: Clio
+Preço: R$ 62851.00
+País: Brazil
+Região: São Paulo
+Nome: Dorisa Locke
+Data: 30/01/2016
+----------------------------------------
+ID: 415
+Marca: Renault
+Modelo: Clio
+Preço: R$ 77880.00
+País: Brazil
+Região: Santa Catarina
+Nome: Yehudi Churcher
+Data: 23/11/2016
+----------------------------------------
+ID: 862
+Marca: Renault
+Modelo: Grand Tour
+Preço: R$ 78180.00
+País: Brazil
+Região: Santa Catarina
+Nome: Haily O'Growgane
+Data: 27/08/2017
+----------------------------------------
+ID: 344
+Marca: Renault
+Modelo: Logan
+Preço: R$ 60492.00
+País: Brazil
+Região: Santa Catarina
+Nome: Cull Uttermare
+Data: 09/10/2017
+----------------------------------------
+ID: 899
+Marca: Renault
+Modelo: Grand Tour
+Preço: R$ 56239.00
+País: Brazil
+Região: São Paulo
+Nome: Tommy Sugge
+Data: 05/11/2017
+----------------------------------------
+ID: 729
+Marca: Renault
+Modelo: Clio
+Preço: R$ 56342.00
+País: Brazil
+Região: Espirito Santo
+Nome: Berty De Cristoforo
+Data: 28/05/2018
+----------------------------------------
+ID: 274
+Marca: Renault
+Modelo: Clio
+Preço: R$ 67077.00
+País: Brazil
+Região: Bahia
+Nome: Hazel Steadman
+Data: 19/01/2018
+----------------------------------------
+ID: 174
+Marca: Renault
+Modelo: Logan
+Preço: R$ 69768.00
+País: Brazil
+Região: São Paulo
+Nome: Hewitt Colliver
+Data: 31/01/2019
+----------------------------------------
+ID: 466
+Marca: Renault
+Modelo: Grand Tour
+Preço: R$ 45945.00
+País: Brazil
+Região: Rio Grande do Sul
+Nome: Corly Hicks
+Data: 19/07/2019
+----------------------------------------
+ID: 529
+Marca: Renault
+Modelo: Grand Tour
+Preço: R$ 55192.00
+País: Brazil
+Região: São Paulo
+Nome: Jehu Kybbye
+Data: 17/08/2019
+----------------------------------------
+ID: 738
+Marca: Renault
+Modelo: Logan
+Preço: R$ 51839.00
+País: Brazil
+Região: Rio Grande do Sul
+Nome: Berna Mabb
+Data: 18/08/2019
+----------------------------------------
+ID: 708
+Marca: Renault
+Modelo: Grand Tour
+Preço: R$ 49512.00
+País: Brazil
+Região: Santa Catarina
+Nome: Taylor Glanister
+Data: 22/10/2019
+----------------------------------------
+ID: 676
+Marca: Renault
+Modelo: Logan
+Preço: R$ 72645.00
+País: Brazil
+Região: São Paulo
+Nome: Colver Waterfield
+Data: 08/12/2019
+----------------------------------------
+ID: 895
+Marca: Renault
+Modelo: Clio
+Preço: R$ 70664.00
+País: Brazil
+Região: Bahia
+Nome: Rad Oxterby
+Data: 04/06/2020
+----------------------------------------
+ID: 959
+Marca: Renault
+Modelo: Logan
+Preço: R$ 69768.00
+País: Brazil
+Região: São Paulo
+Nome: Hewitt Colliver
+Data: 31/12/2018
+----------------------------------------
+ID: 560
+Marca: Volkswagen
+Modelo: Voyage
+Preço: R$ 76256.00
+País: Brazil
+Região: Rio de Janeiro
+Nome: Erik Antley
+Data: 17/06/2020
+----------------------------------------
+ID: 545
+Marca: Volkswagen
+Modelo: Golf
+Preço: R$ 43400.00
+País: Brazil
+Região: Rio de Janeiro
+Nome: Berke Pedican
+Data: 28/08/2018
+----------------------------------------
+ID: 785
+Marca: Volkswagen
+Modelo: Voyage
+Preço: R$ 74610.00
+País: Brazil
+Região: Santa Catarina
+Nome: Perrine Longfellow
+Data: 28/11/2014
+----------------------------------------
+ID: 719
+Marca: Volkswagen
+Modelo: Golf
+Preço: R$ 72987.00
+País: Brazil
+Região: São Paulo
+Nome: Jamill Troup
+Data: 07/01/2013
+----------------------------------------
+ID: 276
+Marca: Volkswagen
+Modelo: Fox
+Preço: R$ 61154.00
+País: Brazil
+Região: Pernambuco
+Nome: Olenka Moxson
+Data: 09/02/2013
+----------------------------------------
+ID: 566
+Marca: Volkswagen
+Modelo: Golf
+Preço: R$ 51423.00
+País: Brazil
+Região: Rio de Janeiro
+Nome: Tracee Stemp
+Data: 24/02/2013
+----------------------------------------
+ID: 679
+Marca: Volkswagen
+Modelo: Golf
+Preço: R$ 68713.00
+País: Brazil
+Região: Santa Catarina
+Nome: Angeli Westgarth
+Data: 24/10/2013
+----------------------------------------
+ID: 476
+Marca: Volkswagen
+Modelo: UP!
+Preço: R$ 63184.00
+País: Brazil
+Região: Pará
+Nome: Carree Calles
+Data: 25/02/2014
+----------------------------------------
+ID: 315
+Marca: Volkswagen
+Modelo: Golf
+Preço: R$ 70524.00
+País: Brazil
+Região: Pernambuco
+Nome: Elvira Braham
+Data: 13/03/2014
+----------------------------------------
+ID: 561
+Marca: Volkswagen
+Modelo: Voyage
+Preço: R$ 53940.00
+País: Brazil
+Região: Santa Catarina
+Nome: Toddy Mattaus
+Data: 18/03/2014
+----------------------------------------
+ID: 260
+Marca: Volkswagen
+Modelo: Passat
+Preço: R$ 48355.00
+País: Brazil
+Região: Rio de Janeiro
+Nome: Lawrence Wisker
+Data: 15/04/2014
+----------------------------------------
+ID: 445
+Marca: Volkswagen
+Modelo: Fox
+Preço: R$ 65959.00
+País: Brazil
+Região: Pernambuco
+Nome: Elysha Simyson
+Data: 13/07/2014
+----------------------------------------
+ID: 536
+Marca: Volkswagen
+Modelo: Voyage
+Preço: R$ 47973.00
+País: Brazil
+Região: Rio de Janeiro
+Nome: Durante Egre
+Data: 28/07/2014
+----------------------------------------
+ID: 389
+Marca: Volkswagen
+Modelo: Gol
+Preço: R$ 73006.00
+País: Brazil
+Região: Pernambuco
+Nome: Didi Dron
+Data: 11/09/2014
+----------------------------------------
+ID: 582
+Marca: Volkswagen
+Modelo: Gol
+Preço: R$ 56409.00
+País: Brazil
+Região: Rio de Janeiro
+Nome: Bridgette Hutchason
+Data: 18/11/2014
+----------------------------------------
+ID: 825
+Marca: Volkswagen
+Modelo: Golf
+Preço: R$ 67988.00
+País: Brazil
+Região: Santa Catarina
+Nome: Anette Hallows
+Data: 11/12/2014
+----------------------------------------
+ID: 65
+Marca: Volkswagen
+Modelo: Polo
+Preço: R$ 71129.00
+País: Brazil
+Região: Rio de Janeiro
+Nome: Debra Draayer
+Data: 27/01/2015
+----------------------------------------
+ID: 586
+Marca: Volkswagen
+Modelo: Golf
+Preço: R$ 47039.00
+País: Brazil
+Região: Bahia
+Nome: Audie McBeith
+Data: 18/04/2015
+----------------------------------------
+ID: 292
+Marca: Volkswagen
+Modelo: Fox
+Preço: R$ 69635.00
+País: Brazil
+Região: Pernambuco
+Nome: Kippar Bansal
+Data: 23/04/2015
+----------------------------------------
+ID: 135
+Marca: Volkswagen
+Modelo: Voyage
+Preço: R$ 47760.00
+País: Brazil
+Região: São Paulo
+Nome: Caesar Yakob
+Data: 25/07/2015
+----------------------------------------
+ID: 599
+Marca: Volkswagen
+Modelo: UP!
+Preço: R$ 51637.00
+País: Brazil
+Região: Pernambuco
+Nome: Hernando Tunniclisse
+Data: 19/01/2015
+----------------------------------------
+ID: 123
+Marca: Volkswagen
+Modelo: Golf
+Preço: R$ 73226.00
+País: Brazil
+Região: Espirito Santo
+Nome: Clemmy Dispencer
+Data: 23/10/2015
+----------------------------------------
+ID: 43
+Marca: Volkswagen
+Modelo: Passat
+Preço: R$ 75476.00
+País: Brazil
+Região: Rio de Janeiro
+Nome: Reinwald Redihough
+Data: 31/10/2015
+----------------------------------------
+ID: 102
+Marca: Volkswagen
+Modelo: Voyage
+Preço: R$ 45780.00
+País: Brazil
+Região: São Paulo
+Nome: Garik Donnell
+Data: 17/04/2016
+----------------------------------------
+ID: 673
+Marca: Volkswagen
+Modelo: Golf
+Preço: R$ 49098.00
+País: Brazil
+Região: Rio Grande do Norte
+Nome: Bond Galliard
+Data: 22/04/2016
+----------------------------------------
+ID: 806
+Marca: Volkswagen
+Modelo: Passat
+Preço: R$ 70883.00
+País: Brazil
+Região: Pernambuco
+Nome: Maybelle Smythe
+Data: 15/06/2016
+----------------------------------------
+ID: 751
+Marca: Volkswagen
+Modelo: Voyage
+Preço: R$ 56334.00
+País: Brazil
+Região: Pernambuco
+Nome: Salomone Downage
+Data: 21/01/2016
+----------------------------------------
+ID: 112
+Marca: Volkswagen
+Modelo: Polo
+Preço: R$ 60411.00
+País: Brazil
+Região: Rio de Janeiro
+Nome: Glyn Seamen
+Data: 07/07/2016
+----------------------------------------
+ID: 574
+Marca: Volkswagen
+Modelo: Gol
+Preço: R$ 47875.00
+País: Brazil
+Região: Pernambuco
+Nome: Meaghan Tyres
+Data: 15/07/2016
+----------------------------------------
+ID: 654
+Marca: Volkswagen
+Modelo: Fox
+Preço: R$ 69895.00
+País: Brazil
+Região: Pernambuco
+Nome: Napoleon Morrallee
+Data: 26/07/2016
+----------------------------------------
+ID: 690
+Marca: Volkswagen
+Modelo: Jetta
+Preço: R$ 69038.00
+País: Brazil
+Região: Pará
+Nome: Annemarie Spottiswoode
+Data: 05/09/2016
+----------------------------------------
+ID: 759
+Marca: Volkswagen
+Modelo: Golf
+Preço: R$ 68626.00
+País: Brazil
+Região: Rio de Janeiro
+Nome: Nicholle Roast
+Data: 28/09/2016
+----------------------------------------
+ID: 722
+Marca: Volkswagen
+Modelo: Polo
+Preço: R$ 49865.00
+País: Brazil
+Região: Rio de Janeiro
+Nome: Pat Eggers
+Data: 03/11/2016
+----------------------------------------
+ID: 186
+Marca: Volkswagen
+Modelo: Polo
+Preço: R$ 46546.00
+País: Brazil
+Região: Rio de Janeiro
+Nome: Sunny Salaman
+Data: 19/11/2016
+----------------------------------------
+ID: 660
+Marca: Volkswagen
+Modelo: UP!
+Preço: R$ 66725.00
+País: Brazil
+Região: Rio de Janeiro
+Nome: Archer Dikle
+Data: 21/11/2016
+----------------------------------------
+ID: 511
+Marca: Volkswagen
+Modelo: Fox
+Preço: R$ 66295.00
+País: Brazil
+Região: Rio de Janeiro
+Nome: Dinnie Roels
+Data: 19/02/2017
+----------------------------------------
+ID: 246
+Marca: Volkswagen
+Modelo: Golf
+Preço: R$ 58150.00
+País: Brazil
+Região: Santa Catarina
+Nome: Nelson Flewitt
+Data: 03/08/2017
+----------------------------------------
+ID: 922
+Marca: Volkswagen
+Modelo: Gol
+Preço: R$ 59700.00
+País: Brazil
+Região: Rio de Janeiro
+Nome: Melonie McCallion
+Data: 11/10/2017
+----------------------------------------
+ID: 312
+Marca: Volkswagen
+Modelo: Voyage
+Preço: R$ 48937.00
+País: Brazil
+Região: Rio de Janeiro
+Nome: Obidiah Leijs
+Data: 03/11/2017
+----------------------------------------
+ID: 590
+Marca: Volkswagen
+Modelo: Golf
+Preço: R$ 63883.00
+País: Brazil
+Região: São Paulo
+Nome: Iris Scripture
+Data: 05/12/2017
+----------------------------------------
+ID: 604
+Marca: Volkswagen
+Modelo: Passat
+Preço: R$ 46841.00
+País: Brazil
+Região: Pernambuco
+Nome: Shandra Curr
+Data: 27/02/2018
+----------------------------------------
+ID: 285
+Marca: Volkswagen
+Modelo: Golf
+Preço: R$ 65295.00
+País: Brazil
+Região: Santa Catarina
+Nome: Conant Scowen
+Data: 16/03/2018
+----------------------------------------
+ID: 656
+Marca: Volkswagen
+Modelo: Golf
+Preço: R$ 45776.00
+País: Brazil
+Região: Rio Grande do Sul
+Nome: Cati Beckett
+Data: 19/06/2018
+----------------------------------------
+ID: 32
+Marca: Volkswagen
+Modelo: Fox
+Preço: R$ 78514.00
+País: Brazil
+Região: Pernambuco
+Nome: Emilee Jessopp
+Data: 15/01/2018
+----------------------------------------
+ID: 183
+Marca: Volkswagen
+Modelo: UP!
+Preço: R$ 59678.00
+País: Brazil
+Região: Rio de Janeiro
+Nome: Estrella Parsley
+Data: 12/09/2018
+----------------------------------------
+ID: 380
+Marca: Volkswagen
+Modelo: UP!
+Preço: R$ 74394.00
+País: Brazil
+Região: Rio de Janeiro
+Nome: Jen Colloby
+Data: 23/10/2018
+----------------------------------------
+ID: 301
+Marca: Volkswagen
+Modelo: Gol
+Preço: R$ 68575.00
+País: Brazil
+Região: Pernambuco
+Nome: Jacky Cartan
+Data: 31/12/2018
+----------------------------------------
+ID: 111
+Marca: Volkswagen
+Modelo: Golf
+Preço: R$ 55353.00
+País: Brazil
+Região: Bahia
+Nome: Loria McKeller
+Data: 18/01/2019
+----------------------------------------
+ID: 283
+Marca: Volkswagen
+Modelo: Golf
+Preço: R$ 70262.00
+País: Brazil
+Região: Rio Grande do Sul
+Nome: Risa Hains
+Data: 19/02/2019
+----------------------------------------
+ID: 14
+Marca: Volkswagen
+Modelo: UP!
+Preço: R$ 56560.00
+País: Brazil
+Região: Rio de Janeiro
+Nome: Lenna Knotton
+Data: 14/03/2019
+----------------------------------------
+ID: 901
+Marca: Volkswagen
+Modelo: UP!
+Preço: R$ 75614.00
+País: Brazil
+Região: Pernambuco
+Nome: Fern Manshaw
+Data: 18/05/2019
+----------------------------------------
+ID: 90
+Marca: Volkswagen
+Modelo: Golf
+Preço: R$ 71587.00
+País: Brazil
+Região: Rio de Janeiro
+Nome: Iain Ferreira
+Data: 22/06/2019
+----------------------------------------
+ID: 948
+Marca: Volkswagen
+Modelo: Gol
+Preço: R$ 57505.00
+País: Brazil
+Região: Rio de Janeiro
+Nome: Roth Chasteney
+Data: 03/07/2019
+----------------------------------------
+ID: 633
+Marca: Volkswagen
+Modelo: Golf
+Preço: R$ 66813.00
+País: Brazil
+Região: São Paulo
+Nome: Kristofor Woodfield
+Data: 24/07/2019
+----------------------------------------
+ID: 323
+Marca: Volkswagen
+Modelo: Golf
+Preço: R$ 62037.00
+País: Brazil
+Região: Pernambuco
+Nome: Martie Phette
+Data: 19/08/2019
+----------------------------------------
+ID: 321
+Marca: Volkswagen
+Modelo: Voyage
+Preço: R$ 63383.00
+País: Brazil
+Região: Rio Grande do Sul
+Nome: Evvie Osanne
+Data: 28/08/2019
+----------------------------------------
+ID: 147
+Marca: Volkswagen
+Modelo: UP!
+Preço: R$ 44146.00
+País: Brazil
+Região: Pernambuco
+Nome: Brad Shipton
+Data: 31/08/2019
+----------------------------------------
+ID: 92
+Marca: Volkswagen
+Modelo: UP!
+Preço: R$ 43850.00
+País: Brazil
+Região: Rio de Janeiro
+Nome: Cornell Middle
+Data: 05/12/2019
+----------------------------------------
+ID: 730
+Marca: Volkswagen
+Modelo: Jetta
+Preço: R$ 71710.00
+País: Brazil
+Região: Rio de Janeiro
+Nome: Maurita Durie
+Data: 06/12/2019
+----------------------------------------
+ID: 55
+Marca: Volkswagen
+Modelo: Voyage
+Preço: R$ 60946.00
+País: Brazil
+Região: Rio de Janeiro
+Nome: Jenni Spuner
+Data: 13/05/2020
+----------------------------------------
+ID: 969
+Marca: Volkswagen
+Modelo: UP!
+Preço: R$ 43850.00
+País: Brazil
+Região: Rio de Janeiro
+Nome: Cornell Middle
+Data: 05/07/2018
+----------------------------------------
+ID: 970
+Marca: Volkswagen
+Modelo: Jetta
+Preço: R$ 71710.00
+País: Brazil
+Região: Rio de Janeiro
+Nome: Maurita Durie
+Data: 06/07/2018
+----------------------------------------
+ID: 1019
+Marca: Volkswagen
+Modelo: Voyage
+Preço: R$ 60946.00
+País: Brazil
+Região: Rio de Janeiro
+Nome: Jenni Spuner
+Data: 13/05/2020
+----------------------------------------

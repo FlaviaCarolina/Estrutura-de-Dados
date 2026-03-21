@@ -1,0 +1,26 @@
+RELATORIO 4 - CARROS MAIS BARATOS E MAIS CAROS
+==============================================
+
+Menor preço encontrado: R$ 40057.00
+
+ID: 238
+Marca: Chevrolet
+Modelo: Spin
+Preço: R$ 40057.00
+País: Japan
+Região: Yokohama
+Nome: Vernon Swapp
+Data: 13/09/2017
+----------------------------------------
+
+Maior preço encontrado: R$ 79980.00
+
+ID: 263
+Marca: Ford
+Modelo: Mustang
+Preço: R$ 79980.00
+País: Brazil
+Região: Rio de Janeiro
+Nome: Abba Kingcott
+Data: 08/08/2017
+----------------------------------------

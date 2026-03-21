@@ -1,0 +1,40 @@
+--- PAGE 1 ---
+ 
+ 
+ 
+02/03/2026 
+Sistemas de Informação – Estruturas de Dados 
+Prof. Roberto Porto 
+Exercício 2 – Estruturas de Dados Python 
+ 
+ 
+Desenvolva uma solução para gerar relatórios baseados em um arquivo de carros e  de acordo com os 
+requisitos apresentados abaixo: 
+ 
+ Existe um arquivo texto padrão CSV (Valores Separados por Vírgula do Microsoft Excel), base_dados.csv, 
+contendo dados sobre determinados carros. 
+ Os dados estão dispostos por linha. 
+ A primeira linha do arquivo contém o cabeçalho de cada dado disponível. 
+ Opções de relatório: 
+ 
+ Relatório 1: 
+Deverá conter os dados de TODOS os carros em ordem alfabética crescente por marca do carro.  
+ Relatório 2: 
+Deverá conter os dados de TODOS os carros de um determinado país em ordem alfabética por marca 
+de carro. 
+O país deverá ser fornecido pelo usuário. 
+ Relatório 3: 
+Deverá conter os dados de TODOS os carros de um determinado modelo em ordem alfabética por 
+país. 
+O modelo do carro deverá ser fornecido pelo usuário. 
+ Relatório 4: 
+Deverá conter os dados do carro ou carros mais baratos e mais caros. 
+ 
+ Observações:  
+ 
+ Os relatórios devem ser armazenados em arquivos do tipo texto. 
+ Dica: Usar lista com dicionário para armazenar os dados do arquivo base_dados.csv antes de gerar 
+os relatórios. Use os cabeçalhos disponíveis no arquivo base_dados.csv como Chaves no dicionário. 
+ 
+ 
+ 
